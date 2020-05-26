@@ -1,7 +1,9 @@
 *.csv
-/tmp
+tmp/
 *.pdf
 .ipynb_checkpoints/
 world_data/
 .DS_Store
-/img
+img/
+extractions/
+animation/
